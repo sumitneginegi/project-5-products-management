@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/sumitneginegi/project-5-products-management/issues"
   },
-  "homepage": "https://github.com/Anubhav0347/Project-5#readme",
+  "homepage": "https://github.com/sumitneginegi/project-5-products-management#readme",
   "dependencies": {
     "aws-sdk": "^2.1231.0",
     "bcrypt": "^5.1.0",
